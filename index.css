@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    background-color: beige;
+}
+
+.title {
+    color: white;
+}
+
+.big-div {
+    width: 100%;
+    padding: 10px;
+    background-color: darkslateblue;
+    font-size: 10px;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+
+#num-box {
+    width: 50px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 3px;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+
+button {
+    border-radius: 3px;
+    border-width: 0;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 8px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: darkorchid;
+    font-size: 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+#converted, #converted1, #converted2 {
+    font-size: 12px;
+    font-weight: lighter;
+    margin-top: 5px;
+}
+
+.div-1, .div-2, .div-3 {
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    width: 90%;
+    min-width: 400px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+    padding: 8px 30px;
+}
+
